@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    关注微信公众号:谜底90068游戏公会
+鍏虫敞寰俊鍏紬:璋滃簳90068娓告垙鍏細
                 </div>
 
                 <div class="links">
