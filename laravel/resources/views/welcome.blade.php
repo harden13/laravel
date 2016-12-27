@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    关注微信公众号:谜底90068游戏公会
                 </div>
 
                 <div class="links">
